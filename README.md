@@ -1,3 +1,3 @@
-# Arzaga_Chrisdale-BSCS2B.netlify.app
+# arzaga-chrisdale
 
 my project 
